@@ -1,5 +1,5 @@
+<center><img alt="Image title" src="assets/icon.png" width="300" /></center>
 <figure markdown>
-  ![Image title](assets/icon.png){ width="300" }
   <figcaption><b>reve</b></figcaption>
 </figure>
 
