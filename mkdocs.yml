@@ -1,0 +1,14 @@
+site_name: reve
+
+theme:
+  name: material
+  logo: assets/icon.png
+  favicon: assets/icon.png
+  palette:
+    scheme: slate
+  features:
+    - announce.dismiss
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
