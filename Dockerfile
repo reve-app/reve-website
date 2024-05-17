@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 80
 
 # Run app.py when the container launches
-CMD ["mkdocs", "serve"]
+CMD ["mkdocs", "serve", "--dev-addr=0.0.0.0:8010"]
